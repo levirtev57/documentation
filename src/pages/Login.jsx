@@ -25,6 +25,7 @@ const Login = () => {
   // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
+    console.log("GIT")
     localStorage.setItem('user', JSON.stringify(user));
     alert('User data saved!');
     navigate("/home");
