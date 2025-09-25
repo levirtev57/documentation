@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "src": "/images (1).jpg",
+      "alt": "Kung Fu Panda 4",
+      "title": "Kung Fu Panda 4",
+      "rating": 7.5
+    },
+    {
+      "id": 2,
+      "src": "/images (2).jpg",
+      "alt": "Brave",
+      "title": "Brave",
+      "rating": 7.1
+    },
+    {
+      "id": 3,
+      "src": "/images (3).jpg",
+      "alt": "Toy Story",
+      "title": "Toy Story",
+      "rating": 8.3
+    },
+    {
+      "id": 4,
+      "src": "/images (4).jpg",
+      "alt": "Delhi Safari",
+      "title": "Delhi Safari",
+      "rating": 5.6
+    },
+    {
+      "id": 5,
+      "src": "/images (5).jpg",
+      "alt": "Elemental",
+      "title": "Elemental",
+      "rating": 7.0
+    },
+    {
+      "id": 6,
+      "src": "/images (6).jpg",
+      "alt": "Angry Birds 2",
+      "title": "Angry Birds 2",
+      "rating": 6.4
+    },
+    {
+      "id": 7,
+      "src": "/images (7).jpg",
+      "alt": "Tangled",
+      "title": "Tangled",
+      "rating": 7.7
+    },
+    {
+      "id": 8,
+      "src": "/images (8).jpg",
+      "alt": "Angry Birds",
+      "title": "Angry Birds",
+      "rating": 6.3
+    },
+    {
+      "id": 9,
+      "src": "/images (9).jpg",
+      "alt": "Incredibles 2",
+      "title": "Incredibles 2",
+      "rating": 7.6
+    },
+    {
+      "id": 10,
+      "src": "/images (10).jpg",
+      "alt": "Hotel Transylvania",
+      "title": "Hotel Transylvania",
+      "rating": 7.0
+    },
+    {
+      "id": 11,
+      "src": "/images (11).jpg",
+      "alt": "2",
+      "title": "2",
+      "rating": 6.7
+    },
+    {
+      "id": 12,
+      "src": "/images (12).jpg",
+      "alt": "Jumbo",
+      "title": "Jumbo",
+      "rating": 6.6
+    },
+    {
+      "id": 13,
+      "src": "/images (13).jpg",
+      "alt": "Finding Nemo",
+      "title": "Finding Nemo",
+      "rating": 8.2
+    },
+    {
+      "id": 14,
+      "src": "/images (14).jpg",
+      "alt": "Smallfoot",
+      "title": "Smallfoot",
+      "rating": 7.3
+    }
+    
+  ]
+}
